@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FinalThesis-master/commons-math3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FinalThesis-master/jmh-core-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FinalThesis-master/jmh-core-benchmarks-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FinalThesis-master/jopt-simple-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../FinalThesis-master/jmh-generator-annprocess-1.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

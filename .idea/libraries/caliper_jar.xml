@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="caliper.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caliper.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/caliper.jar.zip!/" recursive="false" />
+  </library>
+</component>
